@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.pdb

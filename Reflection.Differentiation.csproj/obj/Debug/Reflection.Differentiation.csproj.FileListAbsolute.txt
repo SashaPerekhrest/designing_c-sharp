@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\bin\Debug\Reflection.Differentiation.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\bin\Debug\Reflection.Differentiation.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\bin\Debug\Reflection.Differentiation.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Reflection.Differentiation.csproj\obj\Debug\Reflection.Differentiation.pdb

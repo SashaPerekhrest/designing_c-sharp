@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\bin\Debug\Delegates.PairsAnalysis.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj\obj\Debug\Delegates.PairsAnalysis.pdb

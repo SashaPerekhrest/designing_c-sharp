@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTree.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTree.pdb

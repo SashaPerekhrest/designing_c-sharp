@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Александр\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Александр\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.01" t="ExcludeRecursive" />
+    <e p="C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.PairsAnalysis.csproj" t="IncludeRecursive">
+      <e p="Analysis.cs" t="Include" />
+      <e p="Analysis_should.cs" t="Include" />
+      <e p="app.config" t="Include" />
+      <e p="AverageDifferenceFinder.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Delegates.PairsAnalysis.csproj" t="IncludeRecursive" />
+      <e p="MaxPauseFinder.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PairsAnalyzer.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

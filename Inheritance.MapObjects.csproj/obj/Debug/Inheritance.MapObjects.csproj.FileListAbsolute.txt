@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\bin\Debug\Inheritance.MapObjects.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\bin\Debug\Inheritance.MapObjects.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\bin\Debug\Inheritance.MapObjects.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.pdb

@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.pdb

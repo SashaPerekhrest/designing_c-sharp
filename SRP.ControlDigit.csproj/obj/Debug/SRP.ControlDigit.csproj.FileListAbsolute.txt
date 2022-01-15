@@ -1,0 +1,9 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\bin\Debug\SRP.ControlDigit.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\bin\Debug\SRP.ControlDigit.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\bin\Debug\SRP.ControlDigit.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\SRP.ControlDigit.csproj\obj\Debug\SRP.ControlDigit.pdb

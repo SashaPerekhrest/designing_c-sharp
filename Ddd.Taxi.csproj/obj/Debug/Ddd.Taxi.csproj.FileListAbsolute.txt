@@ -1,0 +1,9 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\bin\Debug\Ddd.Infrastructure.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\bin\Debug\Ddd.Infrastructure.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\obj\Debug\Ddd.Taxi.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\obj\Debug\Ddd.Taxi.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\obj\Debug\Ddd.Taxi.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\obj\Debug\Ddd.Infrastructure.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Ddd.Taxi.csproj\obj\Debug\Ddd.Infrastructure.pdb

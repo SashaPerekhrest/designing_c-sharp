@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.pdb

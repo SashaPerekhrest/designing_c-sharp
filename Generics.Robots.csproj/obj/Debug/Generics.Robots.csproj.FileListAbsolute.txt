@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\bin\Debug\Generics.Robots.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\bin\Debug\Generics.Robots.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\bin\Debug\Generics.Robots.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\obj\Debug\Generics.Robots.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\obj\Debug\Generics.Robots.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\obj\Debug\Generics.Robots.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\obj\Debug\Generics.Robots.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Generics.Robots.csproj\obj\Debug\Generics.Robots.pdb

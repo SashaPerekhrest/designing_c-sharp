@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.pdb

@@ -1,0 +1,9 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.pdb

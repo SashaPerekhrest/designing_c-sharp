@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.exe.config
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.pdb
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\bin\Debug\nunitlite.dll
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csproj.CopyComplete
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.exe
+C:\Users\Александр\Desktop\Дистант\проектирование c#\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.pdb
